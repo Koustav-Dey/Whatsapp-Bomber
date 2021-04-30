@@ -26,10 +26,12 @@ This is a Python script .You Can use it to Send bulk message from Whatsapp.
 </p>
 <hr>
 <a>
-    <img src="https://github.com/Koustav-Dey/Client-Sever-Interaction/blob/main/Img/Client-Server-%20Interaction.png?raw=true" />    
+    <img src="https://github.com/Koustav-Dey/Whatsapp-Bomber/blob/main/img/web.png" />    
 </a>&nbsp;&nbsp;
 
 ---
 
 ### IF CODE NOT WORK 
+
+Download webdriver Chome lastest Version And Paste it Driver Folder Location
 
